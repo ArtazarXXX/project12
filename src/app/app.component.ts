@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { worker } from 'cluster';
 import { MyWorker, MyWorkerDatabase, MyWorkerType } from './shared/worker.model';
 
 @Component({
